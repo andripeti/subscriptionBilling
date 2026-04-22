@@ -92,7 +92,9 @@ dotnet restore SubscriptionBilling.sln
 dotnet run --project src/SubscriptionBilling.Api
 ```
 
-Once it's up, try the happy path:
+Once it's up, the Swagger UI is available at **http://localhost:5000/swagger** — all endpoints are documented there and can be called directly from the browser without needing curl or a separate client.
+
+Alternatively, try the happy path via curl:
 
 ```bash
 # Create a customer
