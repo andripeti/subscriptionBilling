@@ -1,0 +1,11 @@
+D:\Andri\journeymentor\src\SubscriptionBilling.Domain\bin\Debug\net9.0\SubscriptionBilling.Domain.deps.json
+D:\Andri\journeymentor\src\SubscriptionBilling.Domain\bin\Debug\net9.0\SubscriptionBilling.Domain.dll
+D:\Andri\journeymentor\src\SubscriptionBilling.Domain\bin\Debug\net9.0\SubscriptionBilling.Domain.pdb
+D:\Andri\journeymentor\src\SubscriptionBilling.Domain\obj\Debug\net9.0\SubscriptionBilling.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Andri\journeymentor\src\SubscriptionBilling.Domain\obj\Debug\net9.0\SubscriptionBilling.Domain.AssemblyInfoInputs.cache
+D:\Andri\journeymentor\src\SubscriptionBilling.Domain\obj\Debug\net9.0\SubscriptionBilling.Domain.AssemblyInfo.cs
+D:\Andri\journeymentor\src\SubscriptionBilling.Domain\obj\Debug\net9.0\SubscriptionBilling.Domain.csproj.CoreCompileInputs.cache
+D:\Andri\journeymentor\src\SubscriptionBilling.Domain\obj\Debug\net9.0\SubscriptionBilling.Domain.dll
+D:\Andri\journeymentor\src\SubscriptionBilling.Domain\obj\Debug\net9.0\refint\SubscriptionBilling.Domain.dll
+D:\Andri\journeymentor\src\SubscriptionBilling.Domain\obj\Debug\net9.0\SubscriptionBilling.Domain.pdb
+D:\Andri\journeymentor\src\SubscriptionBilling.Domain\obj\Debug\net9.0\ref\SubscriptionBilling.Domain.dll

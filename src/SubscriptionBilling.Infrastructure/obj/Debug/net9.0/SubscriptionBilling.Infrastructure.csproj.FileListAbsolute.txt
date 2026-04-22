@@ -1,0 +1,17 @@
+D:\Andri\journeymentor\src\SubscriptionBilling.Infrastructure\obj\Debug\net9.0\SubscriptionBilling.Infrastructure.csproj.AssemblyReference.cache
+D:\Andri\journeymentor\src\SubscriptionBilling.Infrastructure\obj\Debug\net9.0\SubscriptionBilling.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Andri\journeymentor\src\SubscriptionBilling.Infrastructure\obj\Debug\net9.0\SubscriptionBilling.Infrastructure.AssemblyInfoInputs.cache
+D:\Andri\journeymentor\src\SubscriptionBilling.Infrastructure\obj\Debug\net9.0\SubscriptionBilling.Infrastructure.AssemblyInfo.cs
+D:\Andri\journeymentor\src\SubscriptionBilling.Infrastructure\obj\Debug\net9.0\SubscriptionBilling.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Andri\journeymentor\src\SubscriptionBilling.Infrastructure\bin\Debug\net9.0\SubscriptionBilling.Infrastructure.deps.json
+D:\Andri\journeymentor\src\SubscriptionBilling.Infrastructure\bin\Debug\net9.0\SubscriptionBilling.Infrastructure.dll
+D:\Andri\journeymentor\src\SubscriptionBilling.Infrastructure\bin\Debug\net9.0\SubscriptionBilling.Infrastructure.pdb
+D:\Andri\journeymentor\src\SubscriptionBilling.Infrastructure\bin\Debug\net9.0\SubscriptionBilling.Application.dll
+D:\Andri\journeymentor\src\SubscriptionBilling.Infrastructure\bin\Debug\net9.0\SubscriptionBilling.Domain.dll
+D:\Andri\journeymentor\src\SubscriptionBilling.Infrastructure\bin\Debug\net9.0\SubscriptionBilling.Application.pdb
+D:\Andri\journeymentor\src\SubscriptionBilling.Infrastructure\bin\Debug\net9.0\SubscriptionBilling.Domain.pdb
+D:\Andri\journeymentor\src\SubscriptionBilling.Infrastructure\obj\Debug\net9.0\Subscrip.2B29F2F0.Up2Date
+D:\Andri\journeymentor\src\SubscriptionBilling.Infrastructure\obj\Debug\net9.0\SubscriptionBilling.Infrastructure.dll
+D:\Andri\journeymentor\src\SubscriptionBilling.Infrastructure\obj\Debug\net9.0\refint\SubscriptionBilling.Infrastructure.dll
+D:\Andri\journeymentor\src\SubscriptionBilling.Infrastructure\obj\Debug\net9.0\SubscriptionBilling.Infrastructure.pdb
+D:\Andri\journeymentor\src\SubscriptionBilling.Infrastructure\obj\Debug\net9.0\ref\SubscriptionBilling.Infrastructure.dll
